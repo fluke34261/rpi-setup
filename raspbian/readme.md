@@ -2,7 +2,7 @@
 
 ```sh
 cd /gotopath/usb
-curl https://github.com/fluke34261/rpi-setup/blob/main/raspbian/init.sh | sh -s {your wifi_ssid} {your wifi_password}
+curl https://github.com/fluke34261/rpi-setup/blob/main/raspbian/init.sh | sh -s {your_wifi_ssid} {your_wifi_password}
 ```
 
 and run this when start rpi with micro sd card
