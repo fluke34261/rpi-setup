@@ -2,5 +2,5 @@
 
 ```sh
 cd /gotopath/usb
-curl -OL https://github.com/fluke34261/rpi-setup/blob/main/raspbian/init.sh 
+curl https://github.com/fluke34261/rpi-setup/blob/main/raspbian/init.sh | sh -s {your wifi_ssid} {your wifi_password}
 ```
